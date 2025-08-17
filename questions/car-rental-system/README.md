@@ -70,8 +70,8 @@ using **OOP principles**.
 ------------------------------------------------------------------------
 
 ## 📊 UML Class Diagram
-
-<!-- ![Car Rental UML](./Car_Rental_System.png) -->
+<img width="1756" height="1311" alt="Car_Rental_System" src="https://github.com/user-attachments/assets/90664e79-266f-4e4b-86d5-c09aa243e098" />
+<!-- ![Car Rental UML](https://github.com/user-attachments/assets/90664e79-266f-4e4b-86d5-c09aa243e098) -->
 
 ------------------------------------------------------------------------
 
