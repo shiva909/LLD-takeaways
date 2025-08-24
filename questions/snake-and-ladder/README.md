@@ -53,7 +53,7 @@ The system should be **modular, extensible, and designed using OOP principles**.
 
 ## 📊 UML Class Diagram
 
-<img width="657" height="613" alt="SnakeAndLadder_LinkedIn" src="https://github.com/user-attachments/assets/d2dd3d65-6f07-40f6-a3e8-5ef1339e9a21" />
+<img width="657" height="613" alt="snake-and-ladder" src="https://github.com/user-attachments/assets/5a7f4b80-e22c-47a9-ae1d-40e2c36891da" />
 
 ---
 
