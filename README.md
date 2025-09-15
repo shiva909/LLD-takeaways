@@ -14,6 +14,7 @@ Each folder contains a specific problem/system design along with a detailed `REA
 
 - [Car Rental System](./questions/car-rental-system/README.md)
 - [Snake And Ladder](./questions/snake-and-ladder/README.md)
+- [Movie Booking System](./questions/movie-booking-system/README.md)
 
 <!-- - (Add future problems here) -->
 
