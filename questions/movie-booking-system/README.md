@@ -65,7 +65,7 @@ The system should be modular, extensible, and scalable.
 
 ## 📊 UML Class Diagram
 
-(Insert UML diagram here – classes like User, Movie, Theatre, Show, Seat, Booking, Payment).
+<img width="1749" height="1409" alt="bms_liked_0" src="https://github.com/user-attachments/assets/f5dbc907-faaf-4f1c-80f9-b51af17cc529" />
 
 ---
 
