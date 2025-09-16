@@ -105,7 +105,8 @@ The system should be modular, extensible, and scalable.
 
 ### 4. Booking Confirmation
 - **Immediate lock** → Prevents double booking, may waste seats.
-- **Temporary hold with expiry** → User-friendly, requires state management.
+- **Temporary hold with expiry** → User-friendly, requires state management.  
+[ 👉Tradeoffs Examples: ](./additionalInfo/movie_booking_system_tradeoffs.md)
 
 ---
 
