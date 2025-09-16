@@ -60,4 +60,4 @@ Here are the key trade-offs I considered, with simple real-world scenarios for b
 
 📌 These trade-offs ensure that the system remains **robust and user-friendly**, while still being **scalable** for real-world load like movie premieres or festival releases.
 
-[⬅️ Back ](../README.md)
+[⬅️ Back To Movie Booking System ](../README.md)
